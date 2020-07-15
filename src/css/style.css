@@ -1,59 +1,59 @@
 .d-flex {
-  display: flex;
+    display: flex;
 }
 
 .align-items-center {
-  align-items: center;
+    align-items: center;
 }
 
 .justify-items-center {
-  justify-items: center;
+    justify-items: center;
 }
 
 .justify-items-between {
-  justify-content: space-between;
+    justify-content: space-between;
 }
 
 .ml-auto {
-  margin-left: auto;
+    margin-left: auto;
 }
 
 .mr-auto {
-  margin-right: auto;
+    margin-right: auto;
 }
 
 .mx-auto {
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Header styles */
 .header .brand-logo {
-  position: static;
+    position: static;
 }
 
 .header .currency-select input.select-dropdown {
-  margin: 0;
-  color: #fff;
-  border-bottom: none;
+    margin: 0;
+    color: #fff;
+    border-bottom: none;
 }
 
 .header .currency-select input.select-dropdown:focus {
-  border-bottom: none;
+    border-bottom: none;
 }
 
 .header .currency-select {
-  width: 120px;
+    width: 120px;
 }
 
 .header .currency-select .caret {
-  fill: #fff;
+    fill: #fff;
 }
 
 .header .brand-logo {
-  font-size: 1.5rem;
+    font-size: 1.5rem;
 }
-
+/*
 .ticket-card {
   padding: 10px 15px;
 }
@@ -106,4 +106,4 @@
   background: whitesmoke;
   font-weight: bold;
   font-size: 18px;
-}
+} */
